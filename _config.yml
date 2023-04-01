@@ -1,0 +1,14 @@
+layout: default
+title: "devbetter.net"
+description: Personal blog
+theme: minima
+baseurl: ""
+domain: devbetter.net
+url: https://devbetter.net
+email: kyle@chitmeo.com
+github_username: chitmeo
+markdown: kramdown
+plugins: 
+  - jekyll-feed
+  - jekyll-seo-tag
+google_analytics: UA-168736414-1
